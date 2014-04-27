@@ -1,6 +1,6 @@
 #! /bin/bash
 
-CTAGS="/usr/local/bin/ctags"
+CTAGS="/opt/boxen/homebrew/bin/ctags"
 SOURCECODE="$PWD/*"
 TAGFILE="$PWD/tags"
 CTAGSLANGUAGE="ObjectiveC"
